@@ -3,11 +3,10 @@ var  txtinput = document.querySelector("#txt-input")
 var outputDiv = document.querySelector("#output")
 
 
-
+btnTranslate.addEventListener("click",clickHandler())
 
 
 function clickHandler(){
-    outputDiv.innerText =  "banananannnanananana" + txtinput.value;
+    outputDiv.innerText =  ("bnananana "+ txtinput.value);
 }
 
-btnTranslate.addEventListener("click",clickHandler())
