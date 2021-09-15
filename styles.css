@@ -63,13 +63,14 @@ footer {
     padding: 1rem;
     background-color: yellow;
     text-align: center;
-    font:bold;
+    
 }
 .para{
     p {
         max-width: 600px;
         margin: auto;
         text-align: center;
+    
         
     }
 }
