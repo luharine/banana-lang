@@ -67,7 +67,7 @@ footer {
 }
 .para{
     p {
-        max-width: var(--width-break);
+        max-width: 600px;
         margin: auto;
         text-align: center;
         
