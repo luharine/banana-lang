@@ -35,6 +35,7 @@ textarea {
     border-color:solid grey;
     margin: auto;
     background-color:yellow;
+    color:grey;
 }
 #txt-input{
 
@@ -42,12 +43,12 @@ textarea {
     background-color:grey;
 }
 button {
-    background-color:yellow);
-    border: none;
+    background-color:yellow;
+    border: solid black;
     margin: 1rem 0rem;
     padding: 1rem 2rem;
-    font-family: 'Kalam', cursive;
     font-size: large;
+    text-align: center;
 
 }
 #abc{
@@ -69,7 +70,11 @@ footer {
         max-width: var(--width-break);
         margin: auto;
         text-align: center;
+        
     }
+}
+.buttonone{
+    text-align: center;
 }
 
 
